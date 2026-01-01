@@ -29,7 +29,7 @@ const Dashboard = () => {
 
       hasPlayedWelcome.current = true;
 
-      const welcomeText = `Hi ${userData.fullName}, welcome to bluepay 2026 to the latest version of bluepay, where you can make 200,000 naira daily just by purchasing your BPC code for the sum of 6,500 naira, kindly click on the BPC button to purchase your code directly from the application, have a nice day.`;
+      const welcomeText = `Hi ${userData.fullName}, welcome to bluepay 2026 to the latest version of bluepay, where you can make 200,000 naira daily just by purchasing your BPC code for the sum of 10,000 naira, kindly click on the BPC button to purchase your code directly from the application, have a nice day.`;
 
       const speak = () => {
         // Cancel any ongoing speech
