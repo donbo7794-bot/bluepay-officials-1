@@ -19,7 +19,7 @@ const Index = () => {
                 PAY
               </span>
               <span className="relative z-10 ml-1 bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent text-sm font-light">
-                2025
+                2026
               </span>
               <div className="absolute -bottom-1 left-0 w-full h-0.5 bg-gradient-to-r from-transparent via-blue-300 to-transparent"></div>
             </div>
@@ -30,7 +30,7 @@ const Index = () => {
           <div className="mt-16">
             <img 
               src="/lovable-uploads/55c3f237-e0a0-487d-8665-b3f3c186b081.png" 
-              alt="BLUEPAY2025" 
+              alt="BLUEPAY2026" 
               className="mx-auto mb-10 max-w-xs"
             />
             <h1 className="text-4xl font-bold mb-4">Get Your Account Ready And Instantly.</h1>
