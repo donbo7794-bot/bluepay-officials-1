@@ -19,7 +19,8 @@
       flex-direction: column;
     }
 
-    header {
+    header {from-white to-blue-200 bg-clip-text text-transparent text-sm font-light">
+                2026
       padding: 16px;
     }
 
