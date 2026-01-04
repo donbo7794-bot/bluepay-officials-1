@@ -8,7 +8,7 @@ const Support = () => {
   const navigate = useNavigate();
 
   const handleLiveChatClick = () => {
-    window.open('https://t.me/bluepaylimited0x', '_blank');
+    window.open('https://t.me/Redpayagent1', '_blank');
   };
 
   return (
